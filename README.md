@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar M</h1>
 <h3 align="center">A passionate MERN full stack developer from India</h3>
 
-- 🌱 I’m currently learning **DSA with Java**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
